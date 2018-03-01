@@ -1,4 +1,5 @@
 # Some links to Datasets
+- https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/
 
 ## Numeric Data:
 - https://archive.ics.uci.edu/ml/datasets.html
