@@ -1,13 +1,17 @@
 # Some links to Datasets
 
-## Numeric:
+## Numeric Data:
 - https://archive.ics.uci.edu/ml/datasets.html
 
-## Data Mining:
+## Text Data:
 - http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
  
-## Computer Vision:
+## Image Data:
 - https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
+- http://www.imageclef.org/datasets
   
 ## Medical images:
 - http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
+- https://data.broadinstitute.org/bbbc/BBBC018/
+- https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/
+- https://nucleisegmentationbenchmark.weebly.com/
