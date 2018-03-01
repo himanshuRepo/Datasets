@@ -17,3 +17,6 @@
 - https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/
 - https://nucleisegmentationbenchmark.weebly.com/
 - https://cs.adelaide.edu.au/~zhi/isbi15_challenge/dataset.html
+- https://cvlab.epfl.ch/data/em
+- http://murphylab.web.cmu.edu/data/#2DNuclei
+- http://luispedro.org/projects/nuclear-segmentation/
