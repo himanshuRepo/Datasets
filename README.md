@@ -11,7 +11,7 @@
 - http://www.imageclef.org/datasets
   
 ## Medical images:
-- http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
+- http://www.andrewjanowczyk.com/deep-learning/
 - https://data.broadinstitute.org/bbbc/BBBC018/
 - https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/
 - https://nucleisegmentationbenchmark.weebly.com/
