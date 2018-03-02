@@ -20,3 +20,4 @@
 - https://cvlab.epfl.ch/data/em
 - http://murphylab.web.cmu.edu/data/#2DNuclei
 - http://luispedro.org/projects/nuclear-segmentation/
+- http://bioimage.ucsb.edu/research/bio-segmentation
